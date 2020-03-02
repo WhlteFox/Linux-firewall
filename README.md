@@ -1,3 +1,3 @@
 # Linux-firewall
 
-![IP table](IPtable.png)
+![IP table](https://raw.githubusercontent.com/WhlteFox/Linux-firewall/master/IPtable.PNG)
